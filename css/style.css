@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+
+* {
+    font-family: Lato;
+}
+
+nav li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#grid_info {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+#grid_info p {
+    height: 80%;
+}
+
+#cards_info {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+#cards_info img {
+    height: 70%;
+    width: 70%;
+    align-self: center;
+}
+
+#col_1 {
+    border-top: 5px solid red;
+}
+
+#col_2 {
+    border-top: 5px solid green;
+}
+
+#col_3 {
+    border-top: 5px solid blue;
+}
+
+#version_app {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#version_app img {
+    height: 100%;
+}
+
+footer {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    color: white;
+    margin-top: 150px;
+    background-color: #42434c;
+}
+
+footer img {
+    height: 50px;
+}
